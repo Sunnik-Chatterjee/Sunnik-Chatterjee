@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:dev.sunnikchatterjee@gmail.com">
     <img src="Contact-Section/Email.png" width="49%">
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="www.linkedin.com/in/sunnik-chatterjee-9b3a06281">
     <img src="Contact-Section/LinkedIn.png" width="49%">
   </a>
 </p>
